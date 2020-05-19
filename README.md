@@ -1,4 +1,4 @@
-# ValiquetteVanessa_Project
+# ValiquetteVanessa_MouseMRI
 
 # Main goals
 - MRI pre-processing 
