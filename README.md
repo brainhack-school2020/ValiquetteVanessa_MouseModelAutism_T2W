@@ -6,27 +6,21 @@ It is my first year as a Master student in the Integrated Program in Neuroscienc
 ## Project definition
 __Background__
 
-Mice models are vastly used in pre-clinical neuroscience studies. Various genetically modified mice exists to model different mental disorders and diseases. This project will mainly focus on a mouse model of autism. I will use a subset of a larger dataset made available through a platform called BrainCode.    
-
-__Main goals__
-
-- Segmentation tools (MAGeT)
-- MRI pre-processing
-- Improve script sctruture (Python)
-- Open Source
-- Compute Canada 
+Mice models are vastly used in pre-clinical neuroscience studies. Various genetically modified mice exists to model different mental disorders and diseases. This project will mainly focus on a mouse model of autism. I will use a subset of a larger dataset made available through a platform called BrainCode.     
 
 __Tools__
 
 - Python
 - Jupyter Notebook
 - Containers (?)
+- Compute Canada 
+- Segmentation tools (MAGeT)
 - Github
 
+Multiple Automatically Generated Templates brain segmentation algorithm (MAGeT Brain)
 
 ![MAGeT Brain Mouse](/MAGeTBrain_Mouse.png)
 
-Multiple Automatically Generated Templates brain segmentation algorithm (MAGeT Brain
 https://github.com/CobraLab/documentation/wiki/MAGeTBrain
 Article:
 [Chakravarty, M. M., Steadman, P., van Eede, M. C., Calcott, R. D., Gu, V., Shaw, P., Raznahan, A., Collins, D. L., & Lerch, J. P. (2013). Performing label-fusion-based segmentation using multiple automatically generated templates. Human Brain Mapping, 34(10), 2635–2654.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22092)
