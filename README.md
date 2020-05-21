@@ -36,6 +36,8 @@ __Data__
 
 Mouse model of Autism, T2W scans (BrainCode)
 
+![Brain_CODE](/Brain-CODE.png)
+
 Preprocess and Raw data available (MINC files)
 https://www.braincode.ca/content/open-data-releases
 
