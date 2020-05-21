@@ -15,8 +15,9 @@ MAGeT Brain
 https://github.com/CobraLab/documentation/wiki/MAGeTBrain
 
 Dataset
-Mouse model for Autism, T2W scans (MINC files)
+Mouse model of Autism, T2W scans (MINC files)
 https://www.braincode.ca/content/open-data-releases
+
 MINC toolkit
 https://github.com/BIC-MNI/minc-toolkit-v2
 
