@@ -23,6 +23,8 @@ __Tools__
 - Containers (?)
 - Github
 
+
+![MAGeT Brain Mouse](/MAGeTBrain_Mouse.png)
 Multiple Automatically Generated Templates brain segmentation algorithm (MAGeT Brain
 https://github.com/CobraLab/documentation/wiki/MAGeTBrain
 Article:
