@@ -11,11 +11,8 @@ This project is ambitious and might be downscaled and refocused on key component
 
 __Tools__
 
-- Python
-- Jupyter Notebook
+- Python/Jupyter Notebook
 - Segmentation tool (MAGeT)
-- Containers (?)
-- Compute Canada 
 - Git & Github
 
 Project structure
