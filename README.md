@@ -15,6 +15,7 @@ __Tools__
 - Segmentation tool (MAGeT)
 - Git & Github
 - Virtualization
+- Niagara/Compute Canada
 
 Project structure
 https://drivendata.github.io/cookiecutter-data-science/
