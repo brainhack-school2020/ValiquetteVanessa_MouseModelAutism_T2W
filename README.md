@@ -5,6 +5,7 @@ It is my first year as a Master student in the Integrated Program in Neuroscienc
 
 ## Project definition
 __Background__
+
 Mice models are vastly used in pre-clinical neuroscience studies. Various genetically modified mice exists to model different mental disorders and diseases. This project will mainly focus on a mouse model of autism. I will use a subset of a larger dataset made available through a platform called BrainCode.    
 
 __Main goals__
