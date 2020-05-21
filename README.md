@@ -16,7 +16,7 @@ __Tools__
 - Segmentation tools (MAGeT)
 - Containers (?)
 - Compute Canada 
-- Github
+- Git & Github
 
 Project structure
 https://drivendata.github.io/cookiecutter-data-science/
