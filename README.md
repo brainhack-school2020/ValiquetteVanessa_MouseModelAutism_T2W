@@ -1,7 +1,7 @@
 # MouseModelAutism_T2W
 
 ## Introduction
-It is my first year as a Master student in the Integrated Program in Neuroscience at McGill. My interests are mainly focus on normal and abnormal neurodevelopment trajectories and tools or analysis to assess the previous. I would like to learn new tools and design my project to be open source friendly. I want to play around with Mouse MRI data and get comfortable with the elements we learned on our first week of BHS-2020.  
+It is my first year as a Master student in the Integrated Program in Neuroscience at McGill. My interests are mainly focus on normal and abnormal neurodevelopment trajectories and tools or analysis to assess the previous. I would like to learn new tools and design my project to be well structured and open source friendly. I want to play around with Mouse MRI data and get comfortable with the elements we learned on our first week of BHS-2020.  
 
 ## Project definition
 __Background__
@@ -12,10 +12,13 @@ __Tools__
 
 - Python
 - Jupyter Notebook
+- Segmentation tools (MAGeT)
 - Containers (?)
 - Compute Canada 
-- Segmentation tools (MAGeT)
 - Github
+
+Project structure
+https://drivendata.github.io/cookiecutter-data-science/
 
 Multiple Automatically Generated Templates brain segmentation algorithm (MAGeT Brain)
 https://github.com/CobraLab/documentation/wiki/MAGeTBrain
@@ -25,20 +28,13 @@ https://github.com/CobraLab/documentation/wiki/MAGeTBrain
 Article:
 [Chakravarty, M. M., Steadman, P., van Eede, M. C., Calcott, R. D., Gu, V., Shaw, P., Raznahan, A., Collins, D. L., & Lerch, J. P. (2013). Performing label-fusion-based segmentation using multiple automatically generated templates. Human Brain Mapping, 34(10), 2635–2654.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22092)
 
-MINC toolkit
+MINC toolkit (?)
 https://github.com/BIC-MNI/minc-toolkit-v2
-
-Project structure
-https://drivendata.github.io/cookiecutter-data-science/
-
 
 __Data__
 
-Dataset - BrainCode
-
-Mouse model of Autism, T2W scans (MINC files)
-
-Preprocess and Raw data available
+Mouse model of Autism, T2W scans (BrainCode)
+Preprocess and Raw data available (MINC files)
 https://www.braincode.ca/content/open-data-releases
 
 Published articles:
