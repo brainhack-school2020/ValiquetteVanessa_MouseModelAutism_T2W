@@ -13,7 +13,7 @@ __Tools__
 
 - Python
 - Jupyter Notebook
-- Segmentation tools (MAGeT)
+- Segmentation tool (MAGeT)
 - Containers (?)
 - Compute Canada 
 - Git & Github
