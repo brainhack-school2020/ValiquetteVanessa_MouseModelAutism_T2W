@@ -1,7 +1,7 @@
 # ValiquetteVanessa_MouseModelAutism_T2W
 
 ## Introduction
-It is my first year as a Master student in the Integrated Program in Neuroscience at McGill. My interests are mainly focus on normal and abnormal neurodevelopment trajectories and tools or analysis to assess the previous. I would like to learn new tools and design my project to be open source friendly. I want to play around with Mouse MRI data and get confortable with the elements we learned on our first week of BHS-2020.  
+It is my first year as a Master student in the Integrated Program in Neuroscience at McGill. My interests are mainly focus on normal and abnormal neurodevelopment trajectories and tools or analysis to assess the previous. I would like to learn new tools and design my project to be open source friendly. I want to play around with Mouse MRI data and get comfortable with the elements we learned on our first week of BHS-2020.  
 
 ## Project definition
 __Background__
