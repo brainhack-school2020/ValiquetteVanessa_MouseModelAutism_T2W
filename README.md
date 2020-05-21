@@ -9,8 +9,9 @@ __Background__
 Mice models are vastly used in pre-clinical neuroscience studies. Various genetically modified mice exists to model different mental disorders and diseases. This project will mainly focus on a mouse model of autism. I will use a subset of a larger dataset made available through a platform called BrainCode.    
 
 __Main goals__
-- MRI pre-processing 
+
 - Segmentation tools (MAGeT)
+- MRI pre-processing
 - Improve script sctruture (Python)
 - Open Source
 - Compute Canada 
@@ -37,7 +38,10 @@ https://drivendata.github.io/cookiecutter-data-science/
 __Data__
 
 Dataset - BrainCode
+
 Mouse model of Autism, T2W scans (MINC files)
+
+Preprocess and Raw data available
 https://www.braincode.ca/content/open-data-releases
 
 Published articles:
