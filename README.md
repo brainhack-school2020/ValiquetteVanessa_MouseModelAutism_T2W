@@ -14,6 +14,7 @@ __Tools__
 - Python/Jupyter Notebook
 - Segmentation tool (MAGeT)
 - Git & Github
+- Virtualization
 
 Project structure
 https://drivendata.github.io/cookiecutter-data-science/
