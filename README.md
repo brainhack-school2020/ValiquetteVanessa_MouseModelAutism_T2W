@@ -52,7 +52,7 @@ Published articles:
 
 <h3> Progress overview </h3>
 
-<h3> ools I learned during this project </h3>
+<h3> Tools I learned during this project </h3>
 
 <h3> Results </h3>
 
