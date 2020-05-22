@@ -26,7 +26,7 @@ https://drivendata.github.io/cookiecutter-data-science/
 
 <h4> Multiple Automatically Generated Templates brain segmentation algorithm </h4> 
 
-[MAGeT Brain](https://github.com/CobraLab/documentation/wiki/MAGeTBrain)
+![MAGeT Brain](https://github.com/CobraLab/documentation/wiki/MAGeTBrain)
 
 <img src="/images/MAGeTBrain_Mouse.png" width="400">
 
