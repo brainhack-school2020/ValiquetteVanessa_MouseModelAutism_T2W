@@ -38,12 +38,20 @@ https://github.com/BIC-MNI/minc-toolkit-v2
 
 <h3> Data </h3>
 
-Mouse model of Autism, T2W scans (BrainCode)
+<h4>Mouse model of Autism, T2W scans (BrainCode)</h4>
 
 ![Brain_CODE](/images/Brain-CODE.PNG)
 
 Preprocess and Raw data available (MINC files)
 https://www.braincode.ca/content/open-data-releases
+
+Dataset details:
+- Dataset from 2 studies (see publications below)
+- T2 weighted images (T2 FSE 3D, 56 isotropic voxels)
+- 7 Tesla scanner, Palo Alto, CA (16 custom-built coils)
+- Ex-vivo
+- 37 C57BL/6J mice (19 Mutant, 18 Control)
+- Genotype: 15q11-13 (Chromose duplication, Model for Autism)
 
 Published articles:
 [Ellegood, J., Anagnostou, E., Babineau, B. A., Crawley, J. N., Lin, L., Genestine, M., DiCicco-Bloom, E., Lai, J. K. Y., Foster, J. A., Peñagarikano, O., Geschwind, D. H., Pacey, L. K., Hampson, D. R., Laliberté, C. L., Mills, A. A., Tam, E., Osborne, L. R., Kouser, M., Espinosa-Becerra, F., … Lerch, J. P. (2015). Clustering autism: using neuroanatomical differences in 26 mouse models to gain insight into the heterogeneity. Molecular Psychiatry, 20(1), 118–125.](https://pubmed.ncbi.nlm.nih.gov/25199916/)
