@@ -1,3 +1,5 @@
+![Mouse Model Autism](/MouseModelAutism_KatieCarey_httpswww.spectrumnews.orgfeaturesspecial-reportsspotlight-mouse-models-autism.jpg)
+
 # MouseModelAutism_T2W
 
 ## Introduction
