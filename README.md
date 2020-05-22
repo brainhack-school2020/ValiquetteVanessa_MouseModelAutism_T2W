@@ -24,7 +24,9 @@ This project is ambitious and might be downscaled and refocused on key component
 Project structure
 https://drivendata.github.io/cookiecutter-data-science/
 
-Multiple Automatically Generated Templates brain segmentation algorithm [(MAGeT Brain)](https://github.com/CobraLab/documentation/wiki/MAGeTBrain)
+<h4>Multiple Automatically Generated Templates brain segmentation algorithm </h4> 
+[MAGeT Brain](https://github.com/CobraLab/documentation/wiki/MAGeTBrain)
+
 <img src="/images/MAGeTBrain_Mouse.png" width="400">
 
 Article:
