@@ -1,4 +1,4 @@
-![Mouse Model Autism](/MouseModelAutism_KatieCarey_httpswww.spectrumnews.orgfeaturesspecial-reportsspotlight-mouse-models-autism.jpg)
+![Mouse Model Autism](https://s3.amazonaws.com/spectrumnews-web-assets/uploads/2018/02/Spectrum_SpecialReport_Mice_LandingPage_FINAL_3-1.jpg)
 
 # MouseModelAutism_T2W
 
