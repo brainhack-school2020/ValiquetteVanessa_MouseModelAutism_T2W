@@ -1,5 +1,5 @@
 <img align="center" src="https://s3.amazonaws.com/spectrumnews-web-assets/uploads/2018/02/Spectrum_SpecialReport_Mice_LandingPage_FINAL_3-1.jpg">
-<p align='right'font=9> Illustration by: Katie Carey @https://www.spectrumnews.org/features/special-reports/spotlight-mouse-models-autism/ </p>
+<p align='right'style="font-size:20px"> Illustration by: Katie Carey @https://www.spectrumnews.org/features/special-reports/spotlight-mouse-models-autism/ </p>
 
 <h1 align='center'> MouseModelAutism_T2W </h1>
 
