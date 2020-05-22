@@ -1,9 +1,7 @@
 <img align="center" src="https://s3.amazonaws.com/spectrumnews-web-assets/uploads/2018/02/Spectrum_SpecialReport_Mice_LandingPage_FINAL_3-1.jpg">
 
-# MouseModelAutism_T2W
-.tabulator .tabulator-header .tabulator-col {
-    text-align:center;
-}
+<p aligne='center'> # MouseModelAutism_T2W
+<p>
 
 ## Introduction
 It is my first year as a Master student in the Integrated Program in Neuroscience at McGill. I am part of the Computational Brain Anatomy Lab (CoBraLab) led by Dr. M. Mallar Chakravarty. My interests are mainly focused on normal and abnormal neurodevelopment trajectories and tools or analysis to better understand the previous. I would like to learn new tools and design my project to be well structured and open source friendly. I want to play around with Mouse MRI data and get comfortable with the elements we learned on our first week of BHS-2020.  
