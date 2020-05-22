@@ -24,10 +24,8 @@ This project is ambitious and might be downscaled and refocused on key component
 Project structure
 https://drivendata.github.io/cookiecutter-data-science/
 
-Multiple Automatically Generated Templates brain segmentation algorithm (MAGeT Brain)
-https://github.com/CobraLab/documentation/wiki/MAGeTBrain
-
-![MAGeT Brain Mouse](/images/MAGeTBrain_Mouse.png =250X250)
+Multiple Automatically Generated Templates brain segmentation algorithm [(MAGeT Brain)](https://github.com/CobraLab/documentation/wiki/MAGeTBrain)
+<img src="/images/MAGeTBrain_Mouse.png" width="400">
 
 Article:
 [Chakravarty, M. M., Steadman, P., van Eede, M. C., Calcott, R. D., Gu, V., Shaw, P., Raznahan, A., Collins, D. L., & Lerch, J. P. (2013). Performing label-fusion-based segmentation using multiple automatically generated templates. Human Brain Mapping, 34(10), 2635–2654.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22092)
