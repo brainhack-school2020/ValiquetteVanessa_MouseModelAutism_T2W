@@ -49,9 +49,9 @@ Published articles:
 
 <h2> Results </h2>
 
-__Progress overview__
+<h3> Progress overview </h3>
 
-__Tools I learned during this project__
+<h3> ools I learned during this project </h3>
 
-__Results__
+<h3> Results </h3>
 
