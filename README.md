@@ -1,4 +1,4 @@
-<img align="center" width="100" height="100" src="https://s3.amazonaws.com/spectrumnews-web-assets/uploads/2018/02/Spectrum_SpecialReport_Mice_LandingPage_FINAL_3-1.jpg">
+<img align="center" src="https://s3.amazonaws.com/spectrumnews-web-assets/uploads/2018/02/Spectrum_SpecialReport_Mice_LandingPage_FINAL_3-1.jpg">
 
 # MouseModelAutism_T2W
 
