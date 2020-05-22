@@ -27,7 +27,7 @@ https://drivendata.github.io/cookiecutter-data-science/
 Multiple Automatically Generated Templates brain segmentation algorithm (MAGeT Brain)
 https://github.com/CobraLab/documentation/wiki/MAGeTBrain
 
-![MAGeT Brain Mouse](/MAGeTBrain_Mouse.png)
+![MAGeT Brain Mouse](/images/MAGeTBrain_Mouse.png)
 
 Article:
 [Chakravarty, M. M., Steadman, P., van Eede, M. C., Calcott, R. D., Gu, V., Shaw, P., Raznahan, A., Collins, D. L., & Lerch, J. P. (2013). Performing label-fusion-based segmentation using multiple automatically generated templates. Human Brain Mapping, 34(10), 2635–2654.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22092)
@@ -39,7 +39,7 @@ https://github.com/BIC-MNI/minc-toolkit-v2
 
 Mouse model of Autism, T2W scans (BrainCode)
 
-![Brain_CODE](/Brain-CODE.PNG)
+![Brain_CODE](/images/Brain-CODE.PNG)
 
 Preprocess and Raw data available (MINC files)
 https://www.braincode.ca/content/open-data-releases
