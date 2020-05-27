@@ -56,6 +56,11 @@ Published articles:
 
 [Ellegood, J., Nakai, N., Nakatani, J., Henkelman, M., Takumi, T., & Lerch, J. (2015). Neuroanatomical phenotypes are consistent with autism-like behavioral phenotypes in the 15q11-13 duplication mouse model. Autism Research: Official Journal of the International Society for Autism Research, 8(5), 545–555.](https://onlinelibrary.wiley.com/doi/abs/10.1002/aur.1469)
 
+<h2> Deliverables </h2>
+
+<h3> Week 3 deliverable: data visualization </h3>
+Coming soon...
+
 <h2> Results </h2>
 
 <h3> Progress overview </h3>
