@@ -18,7 +18,6 @@ This project is ambitious and might be downscaled and refocused on key component
 - Python/Jupyter Notebook
 - Segmentation tool (MAGeT)
 - Git & Github
-- Virtualization
 - Niagara/Compute Canada
 
 Project structure
