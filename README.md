@@ -1,6 +1,6 @@
-<img align="center" src="https://s3.amazonaws.com/spectrumnews-web-assets/uploads/2018/02/Spectrum_SpecialReport_Mice_LandingPage_FINAL_3-1.jpg">
+<img align="center" src="https://s3.amazonaws.com/spectrumnews-web-assets/uploads/2018/03/Spectrum_SpecialReport_Mice_Bolivar_FINAL.jpg">
 
-[Illustration by: Katie Carey](https://www.spectrumnews.org/features/special-reports/spotlight-mouse-models-autism/)
+[Illustration by: Katie Carey](https://www.spectrumnews.org/opinion/viewpoint/variability-among-mouse-strains-can-aid-autism-research/)
 
 <h1 align='center'> MouseModelAutism_T2W </h1>
 
