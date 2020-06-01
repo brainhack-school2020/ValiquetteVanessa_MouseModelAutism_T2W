@@ -30,9 +30,6 @@ https://drivendata.github.io/cookiecutter-data-science/
 Article:
 [Chakravarty, M. M., Steadman, P., van Eede, M. C., Calcott, R. D., Gu, V., Shaw, P., Raznahan, A., Collins, D. L., & Lerch, J. P. (2013). Performing label-fusion-based segmentation using multiple automatically generated templates. Human Brain Mapping, 34(10), 2635–2654.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22092)
 
-MINC toolkit (?)
-https://github.com/BIC-MNI/minc-toolkit-v2
-
 <h3> Data </h3>
 
 <h4>Mouse model of Autism, T2W scans (BrainCode)</h4>
