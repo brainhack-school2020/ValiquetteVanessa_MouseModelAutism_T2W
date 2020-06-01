@@ -25,7 +25,7 @@ https://drivendata.github.io/cookiecutter-data-science/
 
 <h4> Multiple Automatically Generated Templates brain segmentation algorithm </h4> 
 
-<img src="/images/MAGeTBrain_Mouse.png" width="430"> <img src="/images/MAGeTBrain_Mouse_rotation.png" width="430">
+<img src="/images/MAGeTBrain_Mouse.png" width="435"> <img src="/images/MAGeTBrain_Mouse_rotation.png" width="435">
 
 Article:
 [Chakravarty, M. M., Steadman, P., van Eede, M. C., Calcott, R. D., Gu, V., Shaw, P., Raznahan, A., Collins, D. L., & Lerch, J. P. (2013). Performing label-fusion-based segmentation using multiple automatically generated templates. Human Brain Mapping, 34(10), 2635–2654.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22092)
