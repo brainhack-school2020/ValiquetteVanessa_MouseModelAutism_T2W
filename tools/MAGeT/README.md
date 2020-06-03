@@ -13,7 +13,7 @@
   2.2 Clone MAGeT Brain to your directory  
   2.3 Create a directory structure that corresponds to the pipeline  
   2.4 Populate your directory with the corresponding files (atlas, mask, labels, brain files)        
-    2.4.1 Use [Globus](https://www.globus.org/) or rsync to transfer your data to your compute canada directory      
+      2.4.1 Use [Globus](https://www.globus.org/) or rsync to transfer your data to your compute canada directory      
     ```
     rsync -avz /path/to/file username@niagara.computecanada.ca:/path/to/put/file (usually starts with scratch/...)
     ```  
