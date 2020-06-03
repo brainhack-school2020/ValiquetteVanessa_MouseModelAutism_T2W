@@ -1,5 +1,5 @@
 # Getting started 
-## High performance computing and MAGeT
+## Running MAGeT on a high performance computer
 
 ### Setting up 
 1. Create a compute canada and get sponsored by your supervisor.
