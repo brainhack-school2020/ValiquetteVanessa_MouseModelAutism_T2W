@@ -17,9 +17,9 @@
   
   Use [Globus](https://www.globus.org/) or rsync to transfer your data to your compute canada directory      
       
-      ```
-      rsync -avz /path/to/file username@niagara.computecanada.ca:/path/to/put/file (usually starts with scratch/...)
-      ```  
+```
+rsync -avz /path/to/file username@niagara.computecanada.ca:/path/to/put/file (usually starts with scratch/...)
+```  
     
    There is atlases provided by the CoBrA Lab or you get some other ones from the Allen brain Institue.      
           [Human Brain](https://github.com/cobralab/atlases)  
