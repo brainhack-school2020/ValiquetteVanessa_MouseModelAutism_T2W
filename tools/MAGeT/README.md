@@ -10,8 +10,8 @@
         
   >The CoBrA lab has its own set of software you can use through the same "modules" system. Here's how you can get access to it:        
   ```
-  cp /project/m/mchakrav/bashrc-template ~/.bashrc You may get a warning that you are overwriting a file, this is okay and expected,      
-  select yes.
+  cp /project/m/mchakrav/bashrc-template ~/.bashrc 
+  #You may get a warning that you are overwriting a file, this is okay and expected, select yes.
   source ~/.bashrc
   ln -s $SCRATCH ~/scratch
   ```
