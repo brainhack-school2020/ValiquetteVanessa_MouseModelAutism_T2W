@@ -29,5 +29,5 @@ There is atlases provided by the CoBrA Lab or you get some other ones from the A
 ```
 mb check
 ```
-4.
+4. Run MAGet for the first time and hope for the best. :pray:
 
