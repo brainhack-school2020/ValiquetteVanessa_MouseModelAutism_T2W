@@ -5,16 +5,24 @@
 1. Create a compute canada and get sponsored by your supervisor.
 2. Since the CoBraLab mainly uses Niagara, I will use Niagara for further steps.
 
-### MAGeT
-1. Setup the module you will need to run MAGeT.
-        
-  >The CoBrA lab has its own set of software you can use through the same "modules" system. Here's how you can get access to it:        
-  ```
-  cp /project/m/mchakrav/bashrc-template ~/.bashrc 
-  #You may get a warning that you are overwriting a file, this is okay and expected, select yes.
-  source ~/.bashrc
-  ln -s $SCRATCH ~/scratch
-  ```
-  >Now CoBrALab modules are available for your account on Niagara. Note that you only need to do the above steps once, after that you 
-  should >have access to the modules immediately after logging in.
+### MAGeT cheat sheet
+1. [Get a package of modules](https://github.com/CoBrALab/documentation/wiki/Getting-Started-on-Niagara) you will need to run MAGeT.
+  
+2. Read the [MAGeT documentation](https://github.com/CobraLab/documentation/wiki/MAGeTBrain)
+  2.1 Load modules
+  2.2 Clone MAGeT Brain to your directory
+  2.3 Create a directory structure that corresponds to the pipeline
+  2.4 Populate your directory with the corresponding files (atlas, mask, labels, brain files)
+        2.4.1 Use [Globus](https://www.globus.org/) or rsync to transfer your data to your compute canada directory
+              ```
+              rsync -avz /path/to/file username@niagara.computecanada.ca:/path/to/put/file (usually starts with scratch/...)
+              ```
+        2.4.2 There is atlases provided by the CoBrA Lab or you get some other ones from the Allen brain Institue.
+              [Human Brain](https://github.com/cobralab/atlases)
+              [Mouse Brain](https://wiki.mouseimaging.ca/display/MICePub/Mouse+Brain+Atlases) 
+3. Do a first check run, to make sure everything is setup right
+        ```
+        mb check
+        ```
+4.
 
