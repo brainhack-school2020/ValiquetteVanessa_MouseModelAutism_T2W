@@ -17,17 +17,17 @@
   
   Use [Globus](https://www.globus.org/) or rsync to transfer your data to your compute canada directory      
       
-        ```
-        rsync -avz /path/to/file username@niagara.computecanada.ca:/path/to/put/file (usually starts with scratch/...)
-        ```  
+      ```
+      rsync -avz /path/to/file username@niagara.computecanada.ca:/path/to/put/file (usually starts with scratch/...)
+      ```  
     
    There is atlases provided by the CoBrA Lab or you get some other ones from the Allen brain Institue.      
           [Human Brain](https://github.com/cobralab/atlases)  
           [Mouse Brain](https://wiki.mouseimaging.ca/display/MICePub/Mouse+Brain+Atlases)  
     
-**3.** Do a first check run, to make sure everything is setup right  
+3. Do a first check run, to make sure everything is setup right  
 ```
 mb check
 ```
-**4.**
+4.
 
