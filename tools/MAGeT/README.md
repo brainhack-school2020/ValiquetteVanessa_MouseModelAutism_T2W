@@ -13,13 +13,13 @@
   2.2 Clone MAGeT Brain to your directory  
   2.3 Create a directory structure that corresponds to the pipeline  
   2.4 Populate your directory with the corresponding files (atlas, mask, labels, brain files)  
-        2.4.1 Use [Globus](https://www.globus.org/) or rsync to transfer your data to your compute canada directory  
-              ```
-              rsync -avz /path/to/file username@niagara.computecanada.ca:/path/to/put/file (usually starts with scratch/...)
-              ```
-        2.4.2 There is atlases provided by the CoBrA Lab or you get some other ones from the Allen brain Institue.  
-              [Human Brain](https://github.com/cobralab/atlases)  
-              [Mouse Brain](https://wiki.mouseimaging.ca/display/MICePub/Mouse+Brain+Atlases)   
+    2.4.1 Use [Globus](https://www.globus.org/) or rsync to transfer your data to your compute canada directory  
+    ```
+    rsync -avz /path/to/file username@niagara.computecanada.ca:/path/to/put/file (usually starts with scratch/...)
+    ```  
+    2.4.2 There is atlases provided by the CoBrA Lab or you get some other ones from the Allen brain Institue.  
+    [Human Brain](https://github.com/cobralab/atlases)  
+    [Mouse Brain](https://wiki.mouseimaging.ca/display/MICePub/Mouse+Brain+Atlases)   
 3. Do a first check run, to make sure everything is setup right  
         ```
         mb check
