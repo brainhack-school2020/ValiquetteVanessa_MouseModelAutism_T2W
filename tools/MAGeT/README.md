@@ -2,7 +2,7 @@
 ## Running MAGeT on a high performance computer
 
 ### Starting on compute canada
-1. Create a compute canada and get sponsored by your supervisor.
+1. Create a compute canada account and get sponsored by your supervisor.
 
 2. Since the CoBraLab mainly uses Niagara, I will use Niagara for further steps.
 
