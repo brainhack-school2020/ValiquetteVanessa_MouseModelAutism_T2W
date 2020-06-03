@@ -9,9 +9,13 @@
 1. [Get a package of modules](https://github.com/CoBrALab/documentation/wiki/Getting-Started-on-Niagara) you will need to run MAGeT.
   
 2. Read the [MAGeT documentation](https://github.com/CobraLab/documentation/wiki/MAGeTBrain)
+  
   2.1 Load modules
+  
   2.2 Clone MAGeT Brain to your directory
+  
   2.3 Create a directory structure that corresponds to the pipeline
+  
   2.4 Populate your directory with the corresponding files (atlas, mask, labels, brain files)
         2.4.1 Use [Globus](https://www.globus.org/) or rsync to transfer your data to your compute canada directory
               ```
