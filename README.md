@@ -2,9 +2,9 @@
 
 [Illustration by: Katie Carey](https://www.spectrumnews.org/opinion/viewpoint/variability-among-mouse-strains-can-aid-autism-research/)
 
-<h1 align='center'> MouseModelAutism_T2W </h1>
+# MouseModelAutism_T2W
 
-<h2> Introduction </h2>
+## Introduction
 It is my first year as a Master student in the Integrated Program in Neuroscience at McGill. I am part of the Computational Brain Anatomy Lab (CoBraLab) led by Dr. M. Mallar Chakravarty. My interests are mainly focused on normal and abnormal neurodevelopment trajectories and tools or analysis to better understand the previous. I would like to learn new tools and design my project to be well structured and open source friendly. I want to play around with Mouse MRI data and get comfortable with the elements we learned on our first week of BHS-2020.  
 
 <h2> Project definition </h2>
@@ -54,9 +54,9 @@ Published articles:
 
 <h2> Deliverables </h2>
 
-### Week 1 : [Assessment](https://github.com/ValiquetteVanessa/Valiquette-VanessaVV-QLSC612)
-Week 3 : [Data visualization](deliverables/Deliverable_week3.md)
-Week 4 : [Presentation](deliverables/MouseModelAutism_presentation.pdf)
+#### Week 1 : [Assessment](https://github.com/ValiquetteVanessa/Valiquette-VanessaVV-QLSC612)
+#### Week 3 : [Data visualization](deliverables/Deliverable_week3.md)
+#### Week 4 : [Presentation](deliverables/MouseModelAutism_presentation.pdf)
 
 
 <h2> Results </h2>
