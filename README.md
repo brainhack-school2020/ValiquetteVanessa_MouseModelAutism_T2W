@@ -7,13 +7,13 @@
 ## Introduction
 It is my first year as a Master student in the Integrated Program in Neuroscience at McGill. I am part of the Computational Brain Anatomy Lab (CoBraLab) led by Dr. M. Mallar Chakravarty. My interests are mainly focused on normal and abnormal neurodevelopment trajectories and tools or analysis to better understand the previous. I would like to learn new tools and design my project to be well structured and open source friendly. I want to play around with Mouse MRI data and get comfortable with the elements we learned on our first week of BHS-2020.  
 
-<h2> Project definition </h2>
-<h3> Background </h3>
+## Project definition 
+### Background
 
 Mice models are vastly used in pre-clinical neuroscience studies. Various genetically modified mice exists to model different mental disorders and diseases. This project will mainly focus on a mouse model of autism. I will use a subset of a larger dataset made available through a platform called BrainCode. Since T2W raw and preprocess images are available, I would like to go through the steps of preprocessing, but could directly jump this step if time is an issue.  MAGeT brain will then be used to automatically segment the T2W images and subsequently extract the volumes for every structure segmented.
 This project is ambitious and might be downscaled and refocused on key components.
 
-<h3> Tools </h3>
+### Tools
 
 - Python/Jupyter Notebook
 - Segmentation tool (MAGeT)
@@ -30,9 +30,9 @@ https://drivendata.github.io/cookiecutter-data-science/
 Article:
 [Chakravarty, M. M., Steadman, P., van Eede, M. C., Calcott, R. D., Gu, V., Shaw, P., Raznahan, A., Collins, D. L., & Lerch, J. P. (2013). Performing label-fusion-based segmentation using multiple automatically generated templates. Human Brain Mapping, 34(10), 2635–2654.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22092)
 
-<h3> Data </h3>
+### Data
 
-<h4>Mouse model of Autism, T2W scans (BrainCode)</h4>
+#### Mouse model of Autism, T2W scans (BrainCode)
 
 ![Brain_CODE](/images/Brain-CODE.PNG)
 
@@ -52,18 +52,18 @@ Published articles:
 
 [Ellegood, J., Nakai, N., Nakatani, J., Henkelman, M., Takumi, T., & Lerch, J. (2015). Neuroanatomical phenotypes are consistent with autism-like behavioral phenotypes in the 15q11-13 duplication mouse model. Autism Research: Official Journal of the International Society for Autism Research, 8(5), 545–555.](https://onlinelibrary.wiley.com/doi/abs/10.1002/aur.1469)
 
-<h2> Deliverables </h2>
+## Deliverables
 
 #### Week 1 : [Assessment](https://github.com/ValiquetteVanessa/Valiquette-VanessaVV-QLSC612)
 #### Week 3 : [Data visualization](deliverables/Deliverable_week3.md)
 #### Week 4 : [Presentation](deliverables/MouseModelAutism_presentation.pdf)
 
 
-<h2> Results </h2>
+## Results
 
-<h3> Progress overview </h3>
+### Progress overview 
 
-<h3> Tools I learned during this project </h3>
+### Tools I learned during this project
 
-<h3> Results </h3>
+### Results 
 
