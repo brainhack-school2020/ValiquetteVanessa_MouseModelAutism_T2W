@@ -54,9 +54,9 @@ Published articles:
 
 <h2> Deliverables </h2>
 
-<h3> Week 1 : [Assessment](https://github.com/ValiquetteVanessa/Valiquette-VanessaVV-QLSC612) </h3>
-<h3> Week 3 : [Data visualization](deliverables/Deliverable_week3.md) </h3>
-<h3> Week 4 : [Presentation](deliverables/MouseModelAutism_presentation.pdf) </h3>
+###Week 1 : [Assessment](https://github.com/ValiquetteVanessa/Valiquette-VanessaVV-QLSC612)
+Week 3 : [Data visualization](deliverables/Deliverable_week3.md)
+Week 4 : [Presentation](deliverables/MouseModelAutism_presentation.pdf)
 
 
 <h2> Results </h2>
