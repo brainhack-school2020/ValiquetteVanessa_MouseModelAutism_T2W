@@ -16,6 +16,7 @@ This project is ambitious and might be downscaled and refocused on key component
 ### Tools
 
 - Python/Jupyter Notebook
+- Cookiecutter
 - Segmentation tool (MAGeT)
 - Git & Github
 - Niagara/Compute Canada
